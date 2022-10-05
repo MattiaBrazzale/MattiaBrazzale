@@ -1,7 +1,7 @@
 Hi, I’m Mattia Brazzale!
 - 👨‍💻 I’m currently working as a Data Scientist in the telco industry.
 - ⚡️ I’m currently learning NLP techniques.
-- 📝 I’m looking to collaborate in Kaggle competitions (or on some open-source projects).
+- 📝 I’m looking to collaborate in Kaggle competitions or on some open-source projects.
 
 <!---
 MattiaBrazzale/MattiaBrazzale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
