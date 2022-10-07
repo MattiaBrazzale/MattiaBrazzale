@@ -1,5 +1,5 @@
 Hi, I’m Mattia Brazzale!
-- 👨‍💻 I’m currently working as a Data Scientist in the telco industry.
+- 👨‍💻 I graduated with an M.Sc. in Mathematics and I'm currently working as a Data Scientist in the telco industry.
 - ⚡️ I’m currently learning NLP techniques.
 - 📝 I’m looking to collaborate in Kaggle competitions or on some open-source projects.
 
