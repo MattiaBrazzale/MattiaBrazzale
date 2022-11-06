@@ -1,6 +1,6 @@
 Hi, I’m Mattia Brazzale!
 - 👨‍💻 I graduated with an M.Sc. in Mathematics and I'm currently working as a Data Scientist in the telco industry.
-- ⚡️ I’m currently learning NLP & A/B Testing techniques.
+- ⚡️ I’m currently learning Reccomender Systems & A/B Testing techniques.
 - 📝 I’m looking to collaborate in Kaggle competitions.
 
 <!---
